@@ -1,0 +1,9 @@
+[package]
+name = "mastermind-solver"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+
+[dependencies]
+iter_tools = "0.1.4"
+rustyline = "12.0.0"
